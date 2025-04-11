@@ -1,3 +1,6 @@
+This shit doesn't work properly at all if someone can fix it Thank you.
+
+
 #  AutoTrack – Blender Plugin
 
 A handy Blender plugin that automatically adds a **Track To constraint** to newly added objects (Meshes, Lights, or Cameras) if an Empty named `"Track"` exists. Fully configurable through the Sidebar UI.
